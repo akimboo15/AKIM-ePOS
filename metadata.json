@@ -1,0 +1,6 @@
+{
+  "name": "AKIM ePOS Cashier",
+  "description": "AKIM ePOS Cashier - Aplikasi POS kasir toko dan cetak nota/struk thermal bluetooth universal, tambah item, ubah harga dinamis, dan kelola transaksi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
